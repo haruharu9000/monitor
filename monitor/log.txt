@@ -1,0 +1,1233 @@
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+ページが更新されました！
+ページが更新されました！
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+ページが更新されました！
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+エラー: HTTPSConnectionPool(host='24120801book-commerce-app-haruharu9000s-projects.vercel.app', port=443): Read timed out. (read timeout=10)
+エラー: HTTPSConnectionPool(host='24120801book-commerce-app-haruharu9000s-projects.vercel.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c16b90>: Failed to resolve '24120801book-commerce-app-haruharu9000s-projects.vercel.app' ([Errno 8] nodename nor servname provided, or not known)"))
+エラー: HTTPSConnectionPool(host='24120801book-commerce-app-haruharu9000s-projects.vercel.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10235ab50>: Failed to resolve '24120801book-commerce-app-haruharu9000s-projects.vercel.app' ([Errno 8] nodename nor servname provided, or not known)"))
+変更なし
+変更なし
+変更なし
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+ページが更新されました！
+エラー: (334, b'UGFzc3dvcmQ6')
+Error fetching page: 404 Client Error: Not Found for url: https://www.amazon.co.jp/dp/B08XYW9B4G
+Error fetching page: 404 Client Error: Not Found for url: https://www.amazon.co.jp/dp/B08XYW9B4G
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 47, in <module>
+    check_amazon_stock()
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 33, in check_amazon_stock
+    res = requests.get(URL, headers=headers)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL 'www.amazon.co.jp/dp/B0DT3T92L3': No scheme supplied. Perhaps you meant https://www.amazon.co.jp/dp/B0DT3T92L3?
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 48, in <module>
+    check_amazon_stock()
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 34, in check_amazon_stock
+    res = requests.get(URL, headers=headers)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL 'www.amazon.co.jp/dp/B0D8KKYZBB': No scheme supplied. Perhaps you meant https://www.amazon.co.jp/dp/B0D8KKYZBB?
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 48, in <module>
+    check_amazon_stock()
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 34, in check_amazon_stock
+    res = requests.get(URL, headers=headers)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL 'www.amazon.co.jp/dp/B0D8KKYZBB': No scheme supplied. Perhaps you meant https://www.amazon.co.jp/dp/B0D8KKYZBB?
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 48, in <module>
+    check_amazon_stock()
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 34, in check_amazon_stock
+    res = requests.get(URL, headers=headers)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 367, in prepare
+    self.prepare_url(url, params)
+  File "/opt/anaconda3/lib/python3.11/site-packages/requests/models.py", line 438, in prepare_url
+    raise MissingSchema(
+requests.exceptions.MissingSchema: Invalid URL 'www.amazon.co.jp/dp/B0D8KKYZBB': No scheme supplied. Perhaps you meant https://www.amazon.co.jp/dp/B0D8KKYZBB?
+✅ Amazon公式の在庫が復活しました！
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 48, in <module>
+    check_amazon_stock()
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 42, in check_amazon_stock
+    send_email("【在庫復活通知】Amazon公式新品あり", f"{URL} にて在庫が確認されました。")
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 30, in send_email
+    smtp.login(SMTP_USER, SMTP_PASS)
+                          ^^^^^^^^^
+NameError: name 'SMTP_PASS' is not defined. Did you mean: 'SMTP_PORT'?
+変更なし
+変更なし
+変更なし
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 13, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 16, in <module>
+    SMTP_PORT = int(os.getenv("SMTP_PORT"))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c8acb061sm5888107b3a.56 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 42, in <module>
+    with open(HASH_FILE, "w") as f:
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23e3b6d2a77sm58845245ad.136 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31c9f1b8f89sm10345147a91.9 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759cb15699esm6005633b3a.82 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-31cb19bc98asm4679682a91.3 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759cb1569d8sm5970053b3a.93 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b3f2fe69c80sm5390573a12.12 - gsmtp')
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 38, in <module>
+    server.login(EMAIL, APP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 750, in login
+    raise last_exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 739, in login
+    (code, resp) = self.auth(
+                   ^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/smtplib.py", line 662, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-759c84e2506sm5994712b3a.26 - gsmtp')
